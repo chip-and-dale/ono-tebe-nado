@@ -142,7 +142,7 @@
   width: 256px;
   height: 51px;
   font-size: 22px;
-  border-color: white;
+  border: white solid 1px;
   color: white;
 }
 
