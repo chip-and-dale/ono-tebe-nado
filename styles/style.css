@@ -267,7 +267,7 @@
 }
 
 .footer {
-  padding: 23px 50px;
+  padding: 23px 50px 90px 50px;
   display: flex;
   justify-content: space-between;
 }
